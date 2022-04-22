@@ -1,0 +1,7 @@
+{
+    "env" : {
+        "MONGO_ATLAS_PW" : "OLUSOGA_PW",
+        "JWT_KEY": "Secret",
+        "DB_CONNECT" : "mongodb+srv://node-shop:olusogaolalekan@cluster0.5enhd.mongodb.net/cluster0s?retryWrites=true&w=majority"
+    }
+}
